@@ -1,4 +1,4 @@
-Connect 4 Game
+Connect 4 (Player VS Bot)
 
 Overview
 This project is an implementation of the classic game Connect 4, where two players take turns dropping colored discs into a grid with the objective of connecting four of their own discs vertically, horizontally, or diagonally.
